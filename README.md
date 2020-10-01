@@ -1,4 +1,4 @@
-### Hi there 👋
+## Benjamin Cayton 
 
 <!--
 **cayton10/cayton10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,8 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -17,8 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+ 🔭 I’m currently working on finishing up my second BS in Computer Information Technology at Marshall University in Huntington, WV.
+ 🌱 I’m currently learning SwiftLang, C#, Object Oriented PHP, PostgreSQL Database Programming, and Software Engineering Principles
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cayton10&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?cayton10" frameborder="0"></iframe>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cayton10&langs_count=6&hide=html,css&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
