@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cayton10&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cayton10&langs_count=6&hide=html,css&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?cayton10" frameborder="0"></iframe>
 
