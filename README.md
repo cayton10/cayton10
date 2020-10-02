@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 🔭 I’m currently working on finishing up my second BS in Computer Information Technology at Marshall University in Huntington, WV.
+ 🔭 I’m currently working on finishing up my second BS in Computer Information Technology at Marshall University in Huntington, WV.</br>
  🌱 I’m currently learning SwiftLang, C#, Object Oriented PHP, PostgreSQL Database Programming, and Software Engineering Principles
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cayton10&theme=react)](https://github.com/anuraghazra/github-readme-stats)
