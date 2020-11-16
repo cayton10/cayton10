@@ -20,4 +20,4 @@ Here are some ideas to get you started:
  🌱 I’m currently learning SwiftLang, C#, Object Oriented PHP, PostgreSQL Database Programming, and Software Engineering Principles
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cayton10&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cayton10&langs_count=6&hide=html,css&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cayton10&langs_count=8&hide=html,css&theme=react)](https://github.com/anuraghazra/github-readme-stats)
