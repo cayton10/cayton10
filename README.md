@@ -17,7 +17,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  🔭 I’m currently working on finishing up my second BS in Computer Information Technology at Marshall University in Huntington, WV.</br>
- 🌱 I’m currently learning SwiftLang, C#, Object Oriented PHP, PostgreSQL Database Programming, and Software Engineering Principles
+ 
+ 🌱 Currently on semester break, but I'm still learning about CI/CD with Docker. I'm actually using docker for a local development environment for Wordpress plugin development as a paid intern in the IT Department at Marshall University.
+ 
+### Next Semester I'll Be Learning:
+
+- X-Plat development with C# and Xamarin
+- ReactJS
+- Algorithm Design with C++
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cayton10&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cayton10&langs_count=8&hide=html,css&theme=react)](https://github.com/anuraghazra/github-readme-stats)
