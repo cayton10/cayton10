@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
@@ -18,12 +18,15 @@ Here are some ideas to get you started:
 -->
  🔭 I’m currently working on finishing up my second BS in Computer Information Technology at Marshall University in Huntington, WV.</br>
  
- 🌱 Currently on semester break, but I'm still learning about CI/CD with Docker. I'm actually using docker for a local development environment for Wordpress plugin development as a paid intern in the IT Department at Marshall University.
+ 🌱 Using Docker to locally develop a custom CMS plugin for Marshall University's available software page. The plugin is being developed within a WordPress environment, so lots of learning on the job!
  
-### Next Semester I'll Be Learning:
+ 🤔 I’m looking for help with getting started in open source contributions. Starting up has been kind of intimidating, but I'll take any pointers and beginner issues.
+ 
+### This Semester I'll Be Learning:
 
 - X-Plat development with C# and Xamarin
-- ReactJS
+- ReactJS, Node.js, and Docker
+- Second Course in Software Engineering Principles
 - Algorithm Design with C++
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cayton10&theme=react)](https://github.com/anuraghazra/github-readme-stats)
