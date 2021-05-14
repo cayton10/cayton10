@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 🔭 Recent graduate with BS in Computer Information Technology from Marshall University in Huntington, WV with dual emphasis in Computer Application Development and Web / Mobile Application Development.</br>
+
+ 🌱 Starting as a full time Applications Developer with TC Energy, June 1! Primarily working with Java, Angular, and AWS.
  
- 🌱 Using Docker to locally develop a custom CMS plugin for Marshall University's available software page. The plugin is being developed within a WordPress environment, so lots of learning on the job!
+ 🔭 Recent graduate with BS in Computer Information Technology from Marshall University in Huntington, WV with dual emphasis in Computer Application Development and Web / Mobile Application Development.</br>
  
  🤔 I’m looking for help with getting started in open source contributions. Starting up has been kind of intimidating, but I'll take any pointers and beginner issues.
  
