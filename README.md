@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- 🌱 Starting as a full time Applications Developer with TC Energy, June 1! Primarily working with Java, Angular, and AWS.
+ 🌱 Starting as a full time Applications Developer with TC Energy, June 1! Working with Java, Angular, Azure Devops, AWS, and MSSQLServer.
  
  🔭 Recent graduate with BS in Computer Information Technology from Marshall University in Huntington, WV with dual emphasis in Computer Application Development and Web / Mobile Application Development.</br>
  
