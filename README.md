@@ -41,4 +41,5 @@ Here are some ideas to get you started:
 ### Javascript Framework Knowledge
 
 - React.js
+- Angular
 - jQuery
