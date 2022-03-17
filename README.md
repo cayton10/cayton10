@@ -18,8 +18,13 @@ Here are some ideas to get you started:
 -->
 
  🌱Currently learning the tech stack at TCEnergy. Working with Java, Angular, Azure Devops, AWS, and MSSQLServer.
- 
- SO MUCH to learn about TypeScript. Thoroughly enjoying it when everything works 😂
+ I'm also currently learning the ropes of being a part time Business Analyst and UX designer
+ Working through Codecademy course paths for:
+ <ul>
+ <li>Front End Development</li>
+ <li>CS Fundamentals with Python</li>
+ <li></li>
+</ul>
  
  🔭 Recent graduate with BS in Computer Information Technology from Marshall University in Huntington, WV with dual emphasis in Computer Application Development and Web / Mobile Application Development.</br>
  
@@ -41,5 +46,5 @@ Here are some ideas to get you started:
 ### Javascript Framework Knowledge
 
 - React.js
-- Angular
+- Angular2
 - jQuery
