@@ -23,8 +23,9 @@ Here are some ideas to get you started:
  <ul>
  <li>Front End Development</li>
  <li>CS Fundamentals with Python</li>
- <li></li>
-</ul>
+</ul></br>
+
+I'm also in the process of developing a dockerized full stack MERN application for displaying information on the sport of Formula 1
  
  🔭 Recent graduate with BS in Computer Information Technology from Marshall University in Huntington, WV with dual emphasis in Computer Application Development and Web / Mobile Application Development.</br>
  
