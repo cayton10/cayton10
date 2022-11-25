@@ -32,8 +32,7 @@ I'm also in the process of developing a dockerized full stack MERN application f
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cayton10&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cayton10&langs_count=8&hide=html,css&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-Total lang use:
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?cayton10" frameborder="0"></iframe>
+Check [here](https://ionicabizau.github.io/github-profile-languages/api.html?cayton10)
 
 ### OOP Language Experience
 
